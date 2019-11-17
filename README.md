@@ -1,7 +1,7 @@
 geoai-cookiecutter
 ==============================
 
-My cookiecutter template for spatial data science projects.
+My cookiecutter template for spatial data science projects. Modified from drivendata's cookiecutter to include an ArcGIS Pro projects folder.
 
 Project Organization
 ------------
